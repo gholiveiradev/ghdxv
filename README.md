@@ -1,9 +1,9 @@
-# Bem vindo! 🖖
-### Meu nome é Gustavo, estou iniciando minha carreira como desenvolvedor web
+# Bem vindo! 🌌
+### Eu sou o Gustavo e estou iniciando minha carreira como desenvolvedor web.
 
-🔸 Tive meu primeiro contato com desenvolvimento web através de um amigo <br>
-🔸 Desde o primeiro momento foi realmente apaixonante <br>
-🔸 Estou na fase de estudos
+🔹 Meu primeiro contato com desenvolvimento web foi através de um amigo <br>
+🔹 Desde o primeiro momento foi realmente apaixonante <br>
+🔹 Estou estudando JavaScript
 
 --
 
